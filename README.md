@@ -1,2 +1,2 @@
-# Avalanche-forecasting-using-ML
-Predicting avalanche chances in a particular location
+# llSPS-INT-3114-Avalanche-forecasting-using-machine-learning
+Avalanche forecasting using machine learning
